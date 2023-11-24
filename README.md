@@ -1,2 +1,2 @@
 # Introtojulia
-Short introduction to the julia programming language
+This presentation in combination with the two notebooks, *IntroductionToJulia* and *AdvancedExamples*, aims to give a short introduction to the Julia programming language. The aim is not to give a full overview of all the possible commands and functions, but rather to ignite curiosity about this young, dynamic and performant language and to convince you that it is worth exploring in more detail.
